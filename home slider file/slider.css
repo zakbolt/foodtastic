@@ -407,6 +407,9 @@ html .wrap:after {
 .panel--green:after {
     background-color: #713e2b;
 }
+.panel--cohkolate:after {
+    background-color: #713e2b00;
+}
 .panel--red .panel__content .btn {
     color: #cf223c;
     background: #fff;
